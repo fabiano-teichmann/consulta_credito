@@ -1,0 +1,5 @@
+mongoengine
+pymemcache
+flask
+redis
+faker
