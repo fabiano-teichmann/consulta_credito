@@ -3,3 +3,4 @@ pymemcache
 flask
 redis
 faker
+flask-mongoengine
