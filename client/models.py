@@ -18,4 +18,4 @@ class Client(Document):
     create_at = DateTimeField()
 
 
-
+connect('client')
